@@ -1,7 +1,7 @@
 # Shopify App Analysis
 
 ## Project Overview
-This project aims to analyze the landscape of apps on the Shopify platform using data scraped from publicly available Shopify websites. The goal is to identify key factors contributing to the success of a Shopify app by leveraging Power BI for data visualization and insights.
+This project aimed to analyze the landscape of apps on the Shopify platform using data scraped from publicly available Shopify websites. The goal is to identify key factors contributing to the success of a Shopify app by leveraging Power BI for data visualization and insights.
 
 ## Dataset
 The dataset (`shopify.xlsx`) consists of four tables:
@@ -16,8 +16,9 @@ The dataset (`shopify.xlsx`) consists of four tables:
 **Objective:** Identify key statistics and trends in Shopify apps.
 
 1. **KPI Card**: Displays the unique number of apps in the dataset.
-2. **Line Chart**: Plots the sum of `review_count` over time (`lastmod` date) to visualize review trends.
-3. **Scatterplot**: Shows the relationship between `reviews_count` (X-axis) and `average rating` (Y-axis), with an annotation summarizing insights.
+2. 
+3. **Line Chart**: Plots the sum of `review_count` over time (`lastmod` date) to visualize review trends.
+4. **Scatterplot**: Shows the relationship between `reviews_count` (X-axis) and `average rating` (Y-axis), with an annotation summarizing insights.
 
 ### Part 2: Reviews
 **Objective:** Analyze the impact of user reviews and developer responses.
