@@ -16,9 +16,11 @@ The dataset (`shopify.xlsx`) consists of four tables:
 **Objective:** Identify key statistics and trends in Shopify apps.
 
 1. **KPI Card**: Displays the unique number of apps in the dataset.
-   ![Image_Alt](image_url)
+   ![Image_Alt](https://github.com/Myschika/powerbiproject/blob/b961e584735f79572e5356addffdca579eb6b2ef/Screenshot%201.png)
 3. **Line Chart**: Plots the sum of `review_count` over time (`lastmod` date) to visualize review trends.
-4. **Scatterplot**: Shows the relationship between `reviews_count` (X-axis) and `average rating` (Y-axis), with an annotation summarizing insights.
+    ![Image_Alt](image_url) 
+5. **Scatterplot**: Shows the relationship between `reviews_count` (X-axis) and `average rating` (Y-axis), with an annotation summarizing insights.
+   ![Image_Alt](image_url)
 
 ### Part 2: Reviews
 **Objective:** Analyze the impact of user reviews and developer responses.
